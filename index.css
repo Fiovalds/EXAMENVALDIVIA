@@ -1,0 +1,21 @@
+.container {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    width: 1000 px;
+}
+
+#columnas
+{
+    margin-left: 100px;
+}
+
+#marginbotones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
